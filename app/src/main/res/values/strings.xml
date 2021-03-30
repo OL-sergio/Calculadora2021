@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_0">0</string>
+    <string name="menos">-</string>
+    <string name="_4">4</string>
+    <string name="_6">6</string>
+    <string name="x">x</string>
+    <string name="_7">7</string>
+    <string name="id">=</string>
+    <string name="igual">=</string>
+    <string name="virbula">.</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="mais">+</string>
+    <string name="divisão">/</string>
+    <string name="precentagem">%</string>
+    <string name="ac">AC</string>
+</resources>
